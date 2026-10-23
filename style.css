@@ -150,3 +150,13 @@ kbd {
 #restart-btn:hover {
   background: #9bbdff;
 }
+
+/* ---- Título ---- */
+.title {
+  text-align: center;
+  font-size: 32px;
+  letter-spacing: 8px;
+  font-weight: 700;
+  color: #e0e0e0;
+  margin-bottom: 16px;
+}
